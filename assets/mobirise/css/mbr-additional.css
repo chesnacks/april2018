@@ -1954,7 +1954,7 @@ body {
 }
 .cid-qO7IZancyB .card .card-header a.panel-title h4 {
   padding: 1.3rem 2rem;
-  border: 1px solid #dfdfdf;
+  border: 0px solid #dfdfdf;
   margin-bottom: 0;
 }
 .cid-qO7IZancyB .card .card-header a.panel-title h4 .sign {
@@ -1985,7 +1985,6 @@ body {
   }
 }
 .cid-qO7IZancyB H4 {
-  color: #767676;
   text-align: left;
 }
 .cid-qO7IZancyB .panel-text {
